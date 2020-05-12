@@ -7,6 +7,7 @@
 #define FALSE 0
 using namespace std;
 
+
 struct student //student database
 {
 	int key;
